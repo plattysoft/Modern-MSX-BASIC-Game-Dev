@@ -1,0 +1,25 @@
+10 SCREEN 1,0,0: KEY OFF: COLOR 2,1,1
+20 LOCATE 0,0:PRINT "Making games with MSX-BASIC"
+30 LOCATE 2,5:PRINT "Space shooter"
+40 LOCATE 2,7:PRINT "Dungeon crawler (draw)"
+50 LOCATE 2,9:PRINT "Dungeon crawler (tiles)"
+60 LOCATE 2,11:PRINT "Scroll tiles"
+70 LOCATE 2,13:PRINT "Animating tiles"
+80 LOCATE 0,20:PRINT "By Raul Portales (2021)"
+
+90 SPRITE$(0)="asdasddd"
+91 Y=40
+100 S=STICK(0)
+110 IF S=1 THEN Y=Y-16: IF Y<40 THEN Y=104
+120 IF S=5 THEN Y=Y+16: IF Y>104 THEN Y=40
+130 PUT SPRITE 0,(16,Y),15,0
+140 IF STRIG(0) THEN GOTO 300
+190 TIME=0
+200 IF TIME<10 THEN 200 ELSE 100
+
+300 IF Y=40 THEN RUN"sshooter.bas"
+310 IF Y=56 THEN RUN"ddungeon.bas"
+320 IF Y=72 THEN RUN"tdungeon.bas"
+330 IF Y=88 THEN RUN"scroll_t.bas"
+340 IF Y=104 THEN RUN"animatile.bas"
+350 END
