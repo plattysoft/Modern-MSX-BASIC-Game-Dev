@@ -34,6 +34,6 @@ Examples, demos and scripts from the book "Modern MSX-BASIC Game Development"
 * MSXdev Context: https://www.msxdev.org/
 
 ## Beyond MSX BASIC
-* Retro deluxe: https://github.com/retrodeluxe/rlengine-msx
+* RetroDeluxe: https://github.com/retrodeluxe/rlengine-msx
 * Fusion C: https://github.com/ericb59/Fusion-C-v1.2
 * UBOX: https://github.com/reidrac/ubox-msx-lib
