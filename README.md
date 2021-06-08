@@ -25,7 +25,7 @@ Examples, demos and scripts from the book "Modern MSX-BASIC Game Development"
 * nMSXTiles: https://github.com/pipagerardo/nMSXtiles
 
 ## Other tools
-* Dsk2rom: https://github.com/joyrex2001/dsk2rom
+* dsk2rom: https://github.com/joyrex2001/dsk2rom
 * hexFiend: https://hexfiend.com/
 * MSX-BASIC-KUN: https://konamiman.github.io/MSX2-Technical-Handbook/md/KunBASIC.html
 
