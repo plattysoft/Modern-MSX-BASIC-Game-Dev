@@ -44,4 +44,4 @@ rm output/* 2>/dev/null
 
 mv $GAME_NAME.dsk output/
 
-dsk2rom -fc 1 output/$GAME_NAME.dsk output/$GAME_NAME.rom 
+dsk2rom -fac 1 output/$GAME_NAME.dsk output/$GAME_NAME.rom 
