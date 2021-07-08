@@ -1,6 +1,6 @@
 # Examples
 
-## animatile.bas
+## animtile.bas
 
 Example of animating a tile by changing the pattern on the VRAM using VPOKE
 Chapter 7
