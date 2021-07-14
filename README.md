@@ -2,6 +2,10 @@
 
 This repository contains examples, demos and scripts from the book "Modern MSX-BASIC Game Development"
 
+You can read the preface [here](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev/blob/main/Preface.pdf)
+
+You can play around with the examples of the book [here](https://webmsx.org/?MACHINE=MSX1E&ROM=https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev/raw/main/demo/output/demo.rom)
+
 ## About the book
 
 MSX is a 1983’s 8-bit architecture standard for home computers. It includes a Z80 microprocessor and dedicated chips for graphics and sound.
