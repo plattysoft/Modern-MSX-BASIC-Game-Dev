@@ -18,6 +18,20 @@ Nowadays there are vastly more resources available, but I still missed an all in
 
 Welcome to Modern MSX BASIC Game Development.
 
+## Book structure
+The book is structured following a progressive approach in which we will cover the basics in the first chapters and will be building on top of the knowledge of previous chapters.
+
+- In the first chapter we talk about the development environment and the different options with their pros and cons.
+- In the second chapter, we cover the particularities of MSX BASIC as well as the different types of variables, some particularities of the language and a few recommendations on how to write programs.
+- In chapter 3 we get further into MSX BASIC structure and flow as well as commands for managing input and output.
+- In chapter 4, we start to build games, we will see how to define and use sprites and how to handle joysticks; and we will build a space shooter along the way.
+- In chapter 5 we explore the different ways to add collision detection to our space shooter, from hardware sprite collision to hitboxes and a combination of both.
+- In chapter 6, we look into the basic drawing commands available and we will build a simple dungeon game to highlight how they can be used.
+- Chapter 7 is when we get deep into the MSX graphics and dive into how to program the VDP to define tiles for more colorful and efficient graphics. This
+chapter is all about VPOKE and VPEEK.
+- In chapter 8 we explore how we can add sound effects to our games, both using the high level command PLAY and also accessing the PSG directly with SOUND.
+- Finally, in chapter 9 we will see some advanced techniques of MSX BASIC, including making it run blazing fast by compiling it with MSX-BASIC-KUN, splitting the program into many files to make the game more versatile, how to publish it, and we’ll close with a brief glimpse of other more advanced ways to make games for the MSX family.
+
 ## Links
 
 ### Emulators
