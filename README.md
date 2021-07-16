@@ -1,6 +1,8 @@
 # Modern MSX BASIC Game Development
 
-This repository contains examples, demos and scripts from the book "Modern MSX-BASIC Game Development"
+This repository contains examples, demos and scripts from the book ["Modern MSX-BASIC Game Development"](https://www.amazon.com/Modern-MSX-BASIC-Game-Development/dp/1527298094/)
+
+![51nVbm22NBS _SX331_BO1,204,203,200_](https://user-images.githubusercontent.com/1717361/126006613-48c47e3b-922a-4d7c-9840-cf3410a226ab.jpg)
 
 You can read the preface [here](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev/blob/main/Preface.pdf)
 
