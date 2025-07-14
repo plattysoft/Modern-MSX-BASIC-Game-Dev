@@ -10,7 +10,7 @@ MSX_FILE_NAME="${ACTUAL_NAME::8}.${EXTENSION::3}"
 WORKING_DIR=$2
 killall openmsx
 (
-  echo "<command>set renderer SDL</command>";
+  echo "<command>set renderer SDLGL-PP</command>";
   echo "<command>set power on</command>";
   echo "<command>debug set_watchpoint write_mem 0xfffe {[debug read \"memory\" 0xfffe] == 0} {diska insert $WORKING_DIR}</command>";
   echo "<command>type_via_keybuf \\r\\r</command>"
